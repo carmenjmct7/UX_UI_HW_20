@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(250,350,239);
+}
+.col-12 {
+    padding: 100px;
+    text-align: left;
+}
+/* Add space between headings */
+h1, h2, h3, h4 {
+    margin-bottom: 2rem; /* Adds space below each heading */
+  }
+  
+  /* Add space between the size options */
+  .row.g-1 .col {
+    padding: 0.5rem; /* Adds padding inside each size option */
+    margin-bottom: 1rem; /* Adds margin below each size option */
+  }
+  
+  /* Add space between buttons */
+  .d-grid .btn {
+    margin-bottom: 1rem; /* Adds space between buttons */
+  }
+  
+  /* Optional: Space between the whole content and edges of the container */
+  .container {
+    padding: 1rem; /* Adds padding around the container */
+  }
+  
+  /* Optional: Add margin at the bottom of the container for more space at the bottom */
+  .col-12.col-md-4 {
+    margin-bottom: 2rem; /* Adds margin at the bottom of the entire column */
+  }
+ 
