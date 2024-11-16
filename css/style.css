@@ -5,29 +5,29 @@ body {
     padding: 100px;
     text-align: left;
 }
-/* Add space between headings */
+
 h1, h2, h3, h4 {
-    margin-bottom: 2rem; /* Adds space below each heading */
+    margin-bottom: 2rem; 
   }
   
-  /* Add space between the size options */
+ 
   .row.g-1 .col {
-    padding: 0.5rem; /* Adds padding inside each size option */
-    margin-bottom: 1rem; /* Adds margin below each size option */
+    padding: 0.5rem; 
+    margin-bottom: 1rem; 
   }
   
-  /* Add space between buttons */
+  
   .d-grid .btn {
-    margin-bottom: 1rem; /* Adds space between buttons */
+    margin-bottom: 1rem; 
   }
   
-  /* Optional: Space between the whole content and edges of the container */
+
   .container {
-    padding: 1rem; /* Adds padding around the container */
+    padding: 1rem; 
   }
   
-  /* Optional: Add margin at the bottom of the container for more space at the bottom */
+  
   .col-12.col-md-4 {
-    margin-bottom: 2rem; /* Adds margin at the bottom of the entire column */
+    margin-bottom: 2rem; 
   }
  
